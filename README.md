@@ -1,2 +1,2 @@
 # HackerRank-Solutions
-## Solutions to Algorithm | Data Structure is available
+## Solutions to Hackerrank Algorithms preparation kit is available
